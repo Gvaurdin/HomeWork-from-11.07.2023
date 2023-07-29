@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="STL - VECTOR_ HW_23.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,19 +129,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Buy.cpp" />
-    <ClCompile Include="Check.cpp" />
-    <ClCompile Include="Product.cpp" />
-    <ClCompile Include="Shop.cpp" />
-    <ClCompile Include="single and multiple inheritance (main).cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Buy.h" />
-    <ClInclude Include="Check.h" />
-    <ClInclude Include="Product.h" />
-    <ClInclude Include="Shop.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

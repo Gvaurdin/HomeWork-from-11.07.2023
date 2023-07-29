@@ -27,4 +27,3 @@ public:
 	void Calculate_sum_price_weight();
 	void Print_order();
 };
-

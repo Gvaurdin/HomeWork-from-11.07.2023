@@ -530,5 +530,3 @@ void func_menu()
 		SetColor(7);
 	} while (en = _getch());
 }
-
-

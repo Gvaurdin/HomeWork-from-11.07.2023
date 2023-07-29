@@ -17,4 +17,3 @@ public:
 		Buy(name, price, weight, count ) {}
 	friend ostream& operator << (ostream& os, Check& c);
 };
-
