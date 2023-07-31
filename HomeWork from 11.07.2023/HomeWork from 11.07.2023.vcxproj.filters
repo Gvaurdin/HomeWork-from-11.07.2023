@@ -15,8 +15,44 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL - VECTOR_ HW_23.cpp">
+    <ClCompile Include="полиморфизм HW_24_оркестр\Orkestr.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="полиморфизм HW_24_оркестр\полиморфизм HW_24_оркестр.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="полиморфизм HW_24_оркестр\Orkestr.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="HomeWork from 11.07.2023.rc">
+      <Filter>Файлы ресурсов</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="полиморфизм HW_24_оркестр\balalayka.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="полиморфизм HW_24_оркестр\bass-gitara.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="полиморфизм HW_24_оркестр\fleyta.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="полиморфизм HW_24_оркестр\saksofon.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="полиморфизм HW_24_оркестр\skripka.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="полиморфизм HW_24_оркестр\truba.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
   </ItemGroup>
 </Project>

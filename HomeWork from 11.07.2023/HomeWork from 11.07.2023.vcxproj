@@ -19,7 +19,23 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL - VECTOR_ HW_23.cpp" />
+    <ClCompile Include="полиморфизм HW_24_оркестр\Orkestr.cpp" />
+    <ClCompile Include="полиморфизм HW_24_оркестр\полиморфизм HW_24_оркестр.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="полиморфизм HW_24_оркестр\Orkestr.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="HomeWork from 11.07.2023.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="полиморфизм HW_24_оркестр\balalayka.wav" />
+    <Media Include="полиморфизм HW_24_оркестр\bass-gitara.wav" />
+    <Media Include="полиморфизм HW_24_оркестр\fleyta.wav" />
+    <Media Include="полиморфизм HW_24_оркестр\saksofon.wav" />
+    <Media Include="полиморфизм HW_24_оркестр\skripka.wav" />
+    <Media Include="полиморфизм HW_24_оркестр\truba.wav" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
