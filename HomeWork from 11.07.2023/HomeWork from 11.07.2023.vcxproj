@@ -30,7 +30,7 @@
     <Media Include="полиморфизм HW_24_оркестр\truba.wav" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL, MAP, Multimap_ HW_25_country\STL, MAP, Multimap_ HW_25_country.cpp" />
+    <ClCompile Include="функторы, предикаты, алгоритмы_hw_26\функторы, предикаты, алгоритмы_hw_26.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -40,7 +40,7 @@
     </Media>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL, MAP, Multimap_ HW_25_country\STL, MAP, Multimap_ HW_25_country.cpp">
+    <ClCompile Include="функторы, предикаты, алгоритмы_hw_26\функторы, предикаты, алгоритмы_hw_26.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
