@@ -19,14 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="полиморфизм HW_24_оркестр\Orkestr.cpp" />
-    <ClCompile Include="полиморфизм HW_24_оркестр\полиморфизм HW_24_оркестр.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="resource.h" />
-    <ClInclude Include="полиморфизм HW_24_оркестр\Orkestr.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ResourceCompile Include="HomeWork from 11.07.2023.rc" />
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +28,9 @@
     <Media Include="полиморфизм HW_24_оркестр\saksofon.wav" />
     <Media Include="полиморфизм HW_24_оркестр\skripka.wav" />
     <Media Include="полиморфизм HW_24_оркестр\truba.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="STL, MAP, Multimap_ HW_25_country\STL, MAP, Multimap_ HW_25_country.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
